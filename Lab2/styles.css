@@ -1,0 +1,29 @@
+* {
+  font-family: monospace;
+      background-color: #040302;
+    color: #51BBFE;
+}
+
+body{
+width: 50%;
+margin: 2% auto;
+  }
+
+h1 {
+  text-align: center;
+}
+
+span, p > a {
+  color: #E0CA3C;
+}
+
+img {
+  border-radius: 15px;
+    /* padding: 0%; */
+    margin-top: 5%;
+    width: 100%;
+
+a {
+  color: purple;
+}
+
