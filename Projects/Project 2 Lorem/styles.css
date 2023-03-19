@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Shantell+Sans:ital,wght@0,300;0,400;1,300&display=swap');
+
+*{
+   font-family: 'Roboto', sans-serif;
+}
+
+body{
+width: 50%;
+margin: 0 auto;
+  color: black;
+  background-color: #dfdfdf;
+  }
+
+form {
+  display: grid;
+    padding: 3%;
+      background-color: #ffffff;
+    color: black;
+}
+
+#resident, #units {
+         width: 15%;
+    text-align: center;
+    margin: 2% 0;
+    border: none;
+    border-radius: 30px;
+    background: rgb(250 15 134);
+    color: white;
+}
+
+input {
+  background: #f9f9f9;
+    border: 1px solid #ccc;
+    padding: 3px;
+}
+
+input[type="number"]{
+      width: 10%;
+}
+
+button {
+      display: flex;
+    margin: 0 auto;
+}
+
+.img-todo{
+      margin: 2% auto;
+    display: flex;
+}
