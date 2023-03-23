@@ -58,7 +58,7 @@
 
 # Lorem Ipsum Random Text Generator!
 ## I made this website with PhP!
-## Link to Lorem Ipsum: https://web-project-2-lorem-ipsum.nestorjgc.repl.co/ <br>
+## Link to Lorem Ipsum: <a href="https://web-project-2-lorem-ipsum-generator.nestorjgc.repl.co/" target="_blank">Lorem Ipsum</a><br>
 ## Source Code: https://replit.com/@nestorjgc/Web-Project-2-Lorem-Ipsum-Generator
 
 <p>Built during 2023 and a 10 day deadline.</p>
