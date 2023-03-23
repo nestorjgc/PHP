@@ -61,16 +61,17 @@
 ## Link to Lorem Ipsum: https://web-project-2-lorem-ipsum.nestorjgc.repl.co/ <br>
 ## Source Code: https://replit.com/@nestorjgc/Web-Project-2-Lorem-Ipsum-Generator
 
-<p>Built during 2022 and a 5 day deadline.</p>
+<p>Built during 2023 and a 10 day deadline.</p>
 
-<b>Skills used:</b>
-  <p></p>
+<b>Skills that I'm improving and things I learned:</b>
+  <p>I did this project with an array of words. A conditional statement to choose how many paragraphs the users want and a while loop to iterate in the array and also create randoms paragraphs.</p>
   <ul>
-  <li>PhP</li>
-  <li>For loops.</li>
-  <li>How to include separate PhP Files</li>
+  <li>How to iterate each element of an array.</li>
+  <li>I'm feeling more comfortable using _POST and sending data to PhP server.</li>
+  <li>I created a variable and stored a random value between 1 and 100 to select randomly a word in the array.</li>
   <li>CSS.</li>
 </ul>
+<p>One of my AHA!! moment for this project was when I discovered that I needed to create a conditional and rewrite the while loop to have different paragraphs, the code worked without the while loop but every section was the same without it, which in this case (Lorem Ipsum) wouldn't work.</p>
 
 ![](https://github.com/nestorjgc/PHP/blob/main/assets/two.JPG)
 
