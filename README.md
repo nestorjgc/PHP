@@ -73,20 +73,10 @@
 </ul>
 <p>One of my AHA!! moment for this project was when I discovered that I needed to create a conditional and rewrite the while loop to have different paragraphs, the code worked without the while loop but every section was the same without it, which in this case (Lorem Ipsum) wouldn't work.</p>
 
-![](https://github.com/nestorjgc/PHP/blob/main/assets/two.JPG)
+![](https://github.com/nestorjgc/PHP/blob/main/assets/fourth.JPG)
+![](https://github.com/nestorjgc/PHP/blob/main/assets/fourthone.JPG)
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-https://in-n-outforms.nestorjgc.repl.co/
