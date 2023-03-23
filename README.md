@@ -20,8 +20,7 @@
 # Nestor's Coffee Shop!
 ## I made this website with PhP and for loops!
 ## Link to coffee shop: <a href="https://lab2.nestorjgc.repl.co/" target="_blank">Nestor Coffee Shop</a><br>
-## Source Code: 
-## Source Code: <a href="https://replit.com/@nestorjgc/Lab2" target="_blank">Nestor Coffee Shop</a><br>
+## Source Code: <a href="https://replit.com/@nestorjgc/Lab2" target="_blank">Source Code</a><br>
 
 <p>Built during 2022 and a 5 day deadline.</p>
 
