@@ -36,8 +36,8 @@
 
 # Inn N Out Forms!
 ## Made this project with PhP
-## Link to In n out demo: https://in-n-outforms.nestorjgc.repl.co/ <br>
-## Source Code: https://replit.com/@nestorjgc/In-n-outForms#receipt_form.php
+## Link to In n out demo: <a href="https://in-n-outforms.nestorjgc.repl.co/" target="_blank">In n Out</a><br>
+### Source Code: <a href="https://replit.com/@nestorjgc/In-n-outForms#receipt_form.php" target="_blank">Source Code</a><br>
 
 <p>Built during 2022 and a 7 day deadline.</p>
 
@@ -59,7 +59,7 @@
 # Lorem Ipsum Random Text Generator!
 ## I made this website with PhP!
 ## Link to Lorem Ipsum: <a href="https://web-project-2-lorem-ipsum-generator.nestorjgc.repl.co/" target="_blank">Lorem Ipsum</a><br>
-## Source Code: https://replit.com/@nestorjgc/Web-Project-2-Lorem-Ipsum-Generator
+### Source Code: <a href="https://replit.com/@nestorjgc/Web-Project-2-Lorem-Ipsum-Generator" target="_blank">Source Code</a><br>
 
 <p>Built during 2023 and a 10 day deadline.</p>
 
