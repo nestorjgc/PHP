@@ -56,7 +56,23 @@
 ![](https://github.com/nestorjgc/PHP/blob/main/assets/threethree.JPG)
 
 
+# Lorem Ipsum Random Text Generator!
+## I made this website with PhP!
+## Link to Lorem Ipsum: https://web-project-2-lorem-ipsum.nestorjgc.repl.co/ <br>
+## Source Code: https://replit.com/@nestorjgc/Web-Project-2-Lorem-Ipsum-Generator
 
+<p>Built during 2022 and a 5 day deadline.</p>
+
+<b>Skills used:</b>
+  <p></p>
+  <ul>
+  <li>PhP</li>
+  <li>For loops.</li>
+  <li>How to include separate PhP Files</li>
+  <li>CSS.</li>
+</ul>
+
+![](https://github.com/nestorjgc/PHP/blob/main/assets/two.JPG)
 
 
 
