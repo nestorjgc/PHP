@@ -51,7 +51,9 @@
   <li>After order has been submitted, display random number as a receipt number. Displaying customer information.</li>
 </ul>
 
-![](https://github.com/nestorjgc/PHP/blob/main/assets/two.JPG)
+![](https://github.com/nestorjgc/PHP/blob/main/assets/threeone.JPG)
+![](https://github.com/nestorjgc/PHP/blob/main/assets/threetwo.JPG)
+![](https://github.com/nestorjgc/PHP/blob/main/assets/threethree.JPG)
 
 
 
