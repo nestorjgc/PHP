@@ -34,4 +34,40 @@
 
 ![](https://github.com/nestorjgc/PHP/blob/main/assets/two.JPG)
 
+# Inn N Out Forms!
+## Made this project with PhP
+## Link to In n out demo: https://in-n-outforms.nestorjgc.repl.co/
+## Source Code: https://replit.com/@nestorjgc/In-n-outForms#receipt_form.php
 
+<p>Built during 2022 and a 7 day deadline.</p>
+
+<b>Skills used:</b>
+  <p></p>
+  <ul>
+  <li>PhP</li>
+  <li>Method: POST</li>
+  <li>it will display different combo prices</li>
+  <li>After displaying combo prices, new form with user information for a receipt.</li>
+  <li>After order has been submitted, display random number as a receipt number. Displaying customer information.</li>
+</ul>
+
+![](https://github.com/nestorjgc/PHP/blob/main/assets/two.JPG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://in-n-outforms.nestorjgc.repl.co/
