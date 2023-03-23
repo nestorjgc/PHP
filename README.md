@@ -36,7 +36,7 @@
 
 # Inn N Out Forms!
 ## Made this project with PhP
-## Link to In n out demo: https://in-n-outforms.nestorjgc.repl.co/
+## Link to In n out demo: https://in-n-outforms.nestorjgc.repl.co/ <br>
 ## Source Code: https://replit.com/@nestorjgc/In-n-outForms#receipt_form.php
 
 <p>Built during 2022 and a 7 day deadline.</p>
