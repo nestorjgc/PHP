@@ -1,4 +1,4 @@
-# PHP & MYSql classes LAB and homework.
+# PHP & MYSql classes LAB and homework
 ## This is what I made to document everything and my journey to PhP and MYSQL.
 ## Link to journal: <a href="https://nestor-journal-weeks.nestorjgc.repl.co/" target="_blank">Nestor Journal</a><br>
 
